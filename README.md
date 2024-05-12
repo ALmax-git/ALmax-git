@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ALmax-git/ALmax-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**ALmax-git/ALmax-git** 
 
 - 🔭 I’m currently working on ALmax...
 - 🌱 I’m currently learning Laravel...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alimustaphashettima@gmail.com, whatsapp@+234 816 5141 519...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Code your dreams into reality...
--->
+
